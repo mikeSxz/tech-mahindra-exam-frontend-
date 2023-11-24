@@ -26,8 +26,3 @@ Once you have Docker, you should:
 - Once it finishes you can open the application in your browser by typing [http://localhost:4200](http://localhost:4200) on your address bar
 
 Have fun!
-
-
-
-
-docker build -t nombre-imagen-ssh:etiqueta .
